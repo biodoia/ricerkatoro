@@ -1,4 +1,8 @@
 bin/
 *.db
 .env
+.env.example
 *.exe
+ricercatore
+ricercatore.db-shm
+ricercatore.db-wal
